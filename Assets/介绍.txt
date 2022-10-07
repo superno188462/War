@@ -1,0 +1,6 @@
+1、Resources 存放怪物、子弹预制体
+2、ResourcesO 存放插件
+3、ResourcesT 存放素材，贴图
+4、Scenes 存放场景
+5、Scripts 脚本
+6、StreamingAssets 本地数据
